@@ -1,0 +1,42 @@
+ .box{
+   height: 200px;
+   background: gray;
+   margin: 1px;
+  
+    
+} 
+
+/* .item{
+width: calc((100%/3));
+height: 300px;
+background: red;
+margin: 10px;
+}
+
+
+@media (max-width: 576px) { 
+   .box{
+       width: 100%;
+   }
+   
+    .item{
+       width:100%;
+
+   }
+    
+}
+
+
+@media (min-width: 576px) and (max-width:992px) { 
+    body{
+        
+    }
+}
+
+
+
+
+@media (min-width: 992px) {
+    body{
+        
+ } */

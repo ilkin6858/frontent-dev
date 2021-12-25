@@ -1,0 +1,17 @@
+.normal{
+    width: 400px;
+    height: 150px;
+    background-color: darkolivegreen;
+    border: 1px dotted black;
+    margin:10px;
+    color:white;
+    padding: 10px;
+    
+
+}
+
+.transform{
+   transform:rotate()
+}
+
+
